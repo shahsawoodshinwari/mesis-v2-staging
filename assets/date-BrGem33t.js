@@ -1,0 +1,1 @@
+import{f as n}from"./format-BOBWS5Wu.js";const o={date:"dd/MM/yyyy",time:"hh:mm a",datetime:"dd/MM/yyyy hh:mm a"};let m={};function a(t){return m[t]||o[t]}function y(t,e="date"){const r=typeof t=="string"||typeof t=="number"?new Date(t):t;return n(r,a(e))}export{y as f};

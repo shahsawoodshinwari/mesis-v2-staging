@@ -1,0 +1,1 @@
+import{j as t}from"./index-DL_TF6wh.js";import{P as a}from"./ModulePages-BsDbwxDj.js";function e(){return t.jsx(a,{title:"Withdrawals",description:"Process and track student withdrawals"})}export{e as default};

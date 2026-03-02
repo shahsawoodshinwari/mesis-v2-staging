@@ -1,0 +1,1 @@
+import{j as t}from"./index-DL_TF6wh.js";import{P as e}from"./ModulePages-BsDbwxDj.js";function n(){return t.jsx(e,{title:"Student Reports",description:"Generate and view student-related reports and analytics"})}export{n as default};
